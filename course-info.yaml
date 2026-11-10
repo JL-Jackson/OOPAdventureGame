@@ -1,0 +1,16 @@
+type: marketplace
+title: OOP Adventure Game
+language: English
+summary: This is a deeper dive into the OOP principles using a text-based adventure
+  game as an example. This is based on a course from the OOP in python course from
+  the raspberry pi foundation.
+programming_language: Python
+environment: unittest
+content:
+  - adv_game
+additional_files:
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+mode: Study
+vendor:
+  name: Jonathon Derpak
+yaml_version: 6

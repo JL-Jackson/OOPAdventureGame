@@ -1,0 +1,82 @@
+type: theory
+files:
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: room.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 6
+        placeholder_text: "# TODO"
+        dependency:
+          lesson: adv_game
+          task: part_9
+          file: room.py
+          placeholder: 1
+        initial_state:
+          length: 6
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: YntLjyeBoYvr2Sq61cDxodTkGCFn+8I+DQaBDBBs4rAtdmoeHK7i9+2kdo39XycbWKkvV23jw6mmAU/UZu8O7v0zenpWBtLpEP0eNk46V+EjJ93NOTEZNcysWStvn1qsqR+rblN2nyOZ7fjrH0vLvK2o6DFB/ij3PgWIh6Ik4MPAsd2hZIarBpfGuVaCxGAvYuCJVP2LYNa/KOFr5Txe2X+M9zRSmDZJXtfzekyimUIFzxvGW4DOLrpzTeSqh4hqMApEJrWebWPkQ09/SRpdyyu11Gb6EeGQq4eyXFwQITq/LdvzZXL/O69EzKCr2d8v7YLCMqsIztsT+Mu9HncitXo65bWWXqa4CY2y+ceT2ABdHlhk3TPjDvMbJcqZPPxW++811CMyIv2aKMRubXadVvgxvFWIjC87iYxmdfYZGdXCD/qMuMtw4o40YtcYPizp4olnbzj9GT65+eUlk0znhO91f7qIa/HHMBqCNMWH8+c7wcKu5g7tobLdaXxqZmSpzzuq2PCumnSfYE1G8Db6mh9teqiA1CJxsxVWiFspaY98v8RPd1MPjTHqJtCEK5+x0s0HipjKXmCB3Qhmy7QXFqJXk1dwn6Fb4R0meFsl4RlDDwbJyDSOTUtXoVn3U+m8ShWCg/4gybxI7kcLfz7DIomfg577sXGvZeqP59AJwQ56g1lrxF5UuvO1aaqfowTV/Pncs+NA4BgtFIsiS5uRKvT/BZ3W7b+LTrITYvRHDFvfUIE+OczJY0jf9NcR0pGgYRJ02D73N0vnwP27tq08n6IKrPcI7KtmAtEchLmp55wRvI5RSCEK34Grllz4aE+TvJDfH/c+sYltO9dIOT/P2BqLSfxmXvfZO3mX1OMHm0nTXDOyQ23Gzy1I4iSCKPeVvaqrVuCFpJMEKiydvcsxr3eHll53rs9ndqvWcVWRutTdfv1S4J8m2a4T/9EknWG3AFg7M6OhFwQnDs9NVPAsxloFSv7djWLoBcMrYbVNzYMRdTgEZWOOAHxpWrmyyNANVp3/0CXvDltJWZEaiZ9cgPcXtKp61ycNr5oA4MnePwcEVagCik+U8QmyDnTQyyKwsyrbrBL2wz7+P14fc7tppgctxbmmvAbx74hcN7FtAZHDR/zgphFvz2UdBVA0A3JUqL0jiRRTumIjXMsCJjyO30LQw4hmRHNU8cjUrbB6n3R+4TTRs2g2AHPh5NubWUEhj+Ni+7j8oSjvdCbyLLxX1jw2Qmw2MTpk/3ENFuGJ0CyXhjutlywW1ddJpbLjibi5kBdVn2uhkzTwhLXyfwKyLDg0wt1s2rMv3FqQtXk5fywng5M9HXKvwNaI+Z0MQSLzl5XwebjpwxryFWqGN+ezIlRUh1NRA6vLC80A61nF0VjzkFkEnokLSal5D90Kilx4IVAbK4zf6dZnuUSeeWQr9yqCj0AEAyNaRGoHFlXKir3np4EJCHFIuBtfmsRngtXT
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 6
+        placeholder_text: "# TODO"
+        dependency:
+          lesson: adv_game
+          task: part_9
+          file: main.py
+          placeholder: 1
+        initial_state:
+          length: 6
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: character.py
+    visible: true
+    learner_created: false
+  - name: rpgInfo.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 0
+        placeholder_text: ""
+        dependency:
+          lesson: adv_game
+          task: part_9
+          file: rpgInfo.py
+          placeholder: 1
+        initial_state:
+          length: 0
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: MP8doRXUHzNjxQKVqMZ/uRJArAVJwWQ0I0Vx+QGfV/wvWUWWCIx+f0Ldyg68Ow7gz1BvAdjuGo06cvVUf/61MEdtI2jzFAlqZvOaOOE6qAvECy3/4HRfbfls675QNaSSdd/tn/gFx6GfVC75rnp2jSUQBWNESx+aQg48XzfbotOKnYFt3Bfgmxj4g/d6/i2j8DXOOckchMwy7YOcZnscNykVd+x7YEnDi9gYupK3vI1nH5TU6zar6A/MYOWMAYrvjopLpzTpSkMUms6JpuIzwdGo50McRfKbj4JUf+SWHJOk98f5MAY8S/EC5asX9hfo8rsUPTYlp606w4IkgZZ9g9HYStfzCLR7D7Lgbk4W7RWwiA5vIqtg0sN43D65q7tozla4HHozIBFg1L5FrUx5dshoz/i978A743ZmvVHj/qk4Fq1C0n952qtOqsdomAdlsoJejjFxAHiLBMYFSYZFubq+3Fb32Voha7nxV7jWYMg=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: img.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

@@ -1,0 +1,65 @@
+type: edu
+files:
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: room.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 31
+        placeholder_text: "# TODO add move method and test"
+        dependency:
+          lesson: adv_game
+          task: part_2
+          file: room.py
+          placeholder: 1
+        initial_state:
+          length: 31
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: YntLjyeBoYvr2Sq61cDxodTkGCFn+8I+DQaBDBBs4rAtdmoeHK7i9+2kdo39XycbWKkvV23jw6mmAU/UZu8O7v0zenpWBtLpEP0eNk46V+EjJ93NOTEZNcysWStvn1qsqR+rblN2nyOZ7fjrH0vLvK2o6DFB/ij3PgWIh6Ik4MPAsd2hZIarBpfGuVaCxGAvYuCJVP2LYNa/KOFr5Txe2X+M9zRSmDZJXtfzekyimUIFzxvGW4DOLrpzTeSqh4hqMApEJrWebWPkQ09/SRpdyyu11Gb6EeGQq4eyXFwQITq/LdvzZXL/O69EzKCr2d8v7YLCMqsIztsT+Mu9HncitXo65bWWXqa4CY2y+ceT2ABdHlhk3TPjDvMbJcqZPPxW++811CMyIv2aKMRubXadVvgxvFWIjC87iYxmdfYZGdXCD/qMuMtw4o40YtcYPizp4olnbzj9GT65+eUlk0znhO91f7qIa/HHMBqCNMWH8+c7wcKu5g7tobLdaXxqZmSpzzuq2PCumnSfYE1G8Db6mh9teqiA1CJxsxVWiFspaY98v8RPd1MPjTHqJtCEK5+x0s0HipjKXmCB3Qhmy7QXFqJXk1dwn6Fb4R0meFsl4RlDDwbJyDSOTUtXoVn3U+m8ShWCg/4gybxI7kcLfz7DIomfg577sXGvZeqP59AJwQ56g1lrxF5UuvO1aaqfowTV/Pncs+NA4BgtFIsiS5uRKvT/BZ3W7b+LTrITYvRHDFvfUIE+OczJY0jf9NcR0pGgYRJ02D73N0vnwP27tq08n6IKrPcI7KtmAtEchLmp55wRvI5RSCEK34Grllz4aE+TvJDfH/c+sYltO9dIOT/P2BqLSfxmXvfZO3mX1OMHm0nTXDOyQ23Gzy1I4iSCKPeVvaqrVuCFpJMEKiydvcsxr3eHll53rs9ndqvWcVWRutTdfv1S4J8m2a4T/9EknWG3AFg7M6OhFwQnDs9NVPAsxloFSv7djWLoBcMrYbVNzYMRdTgEZWOOAHxpWrmyyNANVp3/0CXvDltJWZEaiZ9cgPcXtKp61ycNr5oA4MnePwcEVagCik+U8QmyDnTQyyKwsyrbrBL2wz7+P14fc7tppgctxbmmvAbx74hcN7FtAZHDR/zgphFvz2UdBVA0A3JUqL0jiRRTumIjXMsCJjyO30LQw4hmRHNU8cjUrbB6n3R+4TTRs2g2AHPh5NubWUEhj+Ni+7j8oSjvdCbyLLxX1jw2Qmw2MTpk/3ENFuGJ0CyXhjutlywW1ddJpbLjibi5kBdVn2uhkzTwhLXyfwKyLDg0wt1s2rMv3FqQtXk5fywng5M9HXKvwNaI+Z0MQSLzl5XwebjpwxryFWqGN+ezIlRUh1NRA6vLC80A61nF0VjzkFkEnokLSal5D90Kilx4IVAbK4zf6dZnuUSeeWQr9yqCj0AEAyNaRGoHFlXKir3np4EJCHFIuBtfmsRngtXT
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 86
+        placeholder_text: "# TODO create game loop to with a command input allowing you\
+      \ to move from room to room"
+        dependency:
+          lesson: adv_game
+          task: part_2
+          file: main.py
+          placeholder: 1
+        initial_state:
+          length: 86
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: character.py
+    visible: false
+    learner_created: false
+  - name: rpgInfo.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: house_img.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
